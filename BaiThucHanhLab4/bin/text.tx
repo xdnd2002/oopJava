@@ -1,0 +1,13 @@
+Thông báo. Các bạn làm bài thực hành ngày 05/05 theo yêu cầu:
+1. Tạo Package "Lists" và "Sets"
+2. Tạo class Student bao gồm: 2 thuộc tính (FullName và Age), các phương thức
+ (Nhập thông tin, Hiển thị thông tin, thêm mới thông tin, sửa thông tin)
+3. Trong Package "Lists" tạo file ArrayListDemo.java thực hiện yêu cầu:
+ Cho phép người dùng nhập vào n đối tượng Student,
+  thực hiện các chức năng Thêm, sửa, xoá, hiển thị dữ liệu trong ArrayList
+4. Trong Package "Lists" tạo file LinkedListDemo.java thực hiện yêu cầu:
+ Cho phép người dùng nhập vào n đối tượng Student,
+  thực hiện các chức năng Thêm, sửa, xoá, hiển thị dữ liệu trong LinkedList
+5. Trong Package "Sets" tạo file HashSetDemo.java thực hiện yêu cầu:
+ Cho phép người dùng nhập vào n đối tượng Student,
+  thực hiện các chức năng Thêm, sửa, xoá, hiển thị dữ liệu trong HashSet
